@@ -7,6 +7,12 @@ p {
 /*headers green*/
 h1{
 	color:#329932;
+	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border-style: dashed;
+	border-width: 5px;
+	border-color: red;
 }
 /*h1+h2 has grey background*/
 h1, h2{
