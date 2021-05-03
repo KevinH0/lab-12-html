@@ -25,3 +25,13 @@ h2{
 *{
 	font-family: sans-serif;
 }
+/*ID*/
+#intro{
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+/*Class selectors*/
+.spotlight{
+	background-color: #FEFE22;
+}
