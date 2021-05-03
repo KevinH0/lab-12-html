@@ -1,0 +1,21 @@
+/*Paragraphs are red*/
+p {
+	color:red;
+	font-size: 12px;
+	text-decoration: line-through;
+}
+/*headers green*/
+h1{
+	color:#329932;
+}
+/*h1+h2 has grey background*/
+h1, h2{
+	background-color:#888888;
+}
+h2{
+	text-decoration: underline;
+}
+/*font of all*/
+*{
+	font-family: sans-serif;
+}
