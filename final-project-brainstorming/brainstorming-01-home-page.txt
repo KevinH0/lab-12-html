@@ -1,0 +1,3 @@
+- Buttons on the top of the screen displaying Home, About me, Portfolio
+- Short Bio
+- Layout
